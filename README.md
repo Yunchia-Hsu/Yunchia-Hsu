@@ -46,7 +46,7 @@
 
   - [2D game: so_long](https://github.com/Yunchia-Hsu/so_long)
   - [Simple bash-like shell: minishell](https://github.com/Yunchia-Hsu/minishell)
-  - [Algorism: push_swap](https://github.com/Yunchia-Hsu/Hive-Helsinki-)
+  - [Algorithm: push_swap](https://github.com/Yunchia-Hsu/Hive-Helsinki-)
   - [My own C library: Libft](https://github.com/Yunchia-Hsu/Hive-Helsinki-)
 
 - <b>Language **C++** </b>
