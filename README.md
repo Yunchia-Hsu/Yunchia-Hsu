@@ -1,7 +1,7 @@
 
 <div align="center">
     <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">
-        <img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk0Mjg4NDYsIm5iZiI6MTcyOTQyODU0NiwicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIwVDEyNDkwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkZTYwMDQxZjQyNTVmNjA4YTI1YjVjNGIzODFjYTcwNDRlNzU1NjM5ZWIwNzczMTYzZmZmM2IxMjA3YWJlODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ALFB4b3lMSJTtBAY6LGkpnmmR9Ssg4b_NOyJV_wfeBs" alt="Coder gif" width="700" height="450">
+        <img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk0Mjg4NDYsIm5iZiI6MTcyOTQyODU0NiwicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIwVDEyNDkwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkZTYwMDQxZjQyNTVmNjA4YTI1YjVjNGIzODFjYTcwNDRlNzU1NjM5ZWIwNzczMTYzZmZmM2IxMjA3YWJlODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ALFB4b3lMSJTtBAY6LGkpnmmR9Ssg4b_NOyJV_wfeBs" alt="Coder gif" width="600" height="350">
     </a>
 </div>
 
@@ -31,8 +31,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://github.com/Aveek-Saha/GitHub-Profile-Badges)
 ![MacOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
-
-
 </div>
 
 <h2 align="center">📊 My GitHub stats </h2>
@@ -40,19 +38,27 @@
 <div align="center">
    
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yunchia-Hsu&" alt="Yunchia-Hsu" /></p>
+</div>
 
+<h2>👨‍💻 Projects:</h2>
+
+- <b>Language **C** </b>
+  - [2D game: so_long](https://github.com/Yunchia-Hsu/so_long)
+  - [Simple bash-like shell: minishell](https://github.com/Yunchia-Hsu/minishell)
+  - [Algorism: push_swap](https://github.com/Yunchia-Hsu/Hive-Helsinki-)
+  - [My own C library: Libft](https://github.com/Yunchia-Hsu/Hive-Helsinki-)
+
+- <b>Language **C++** </b>
+  - [Basics of C++: Cpp modules](https://github.com/Yunchia-Hsu/CPP_modules)
 
 <h2 align="center">🤳 Contact with me:</h2>
 
-[<img align="center" alt="Yun-Chia Hsu | LinkedIn" width="33px" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" />][linkedin] 
+[<img align="center" alt="Yun-Chia Hsu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
  &nbsp;
 [<img align="center" alt="Yun-Chia Hsu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/yun-chia-hsu-b95406138
 [gmail]: mailto:yh24hsu@gmail.com
 
-
-[linkedin]: https://www.linkedin.com/in/yun-chia-hsu-b95406138
-[gmail]: mailto:yh24hsu@gmail.com
 
 
