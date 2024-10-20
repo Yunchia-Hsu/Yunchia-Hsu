@@ -40,15 +40,17 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yunchia-Hsu&" alt="Yunchia-Hsu" /></p>
 </div>
 
-<h2>👨‍💻 Projects:</h2>
+<h2 align="center">👨‍💻 Projects:</h2>
 
 - <b>Language **C** </b>
+
   - [2D game: so_long](https://github.com/Yunchia-Hsu/so_long)
   - [Simple bash-like shell: minishell](https://github.com/Yunchia-Hsu/minishell)
   - [Algorism: push_swap](https://github.com/Yunchia-Hsu/Hive-Helsinki-)
   - [My own C library: Libft](https://github.com/Yunchia-Hsu/Hive-Helsinki-)
 
 - <b>Language **C++** </b>
+
   - [Basics of C++: Cpp modules](https://github.com/Yunchia-Hsu/CPP_modules)
 
 <h2 align="center">🤳 Contact with me:</h2>
