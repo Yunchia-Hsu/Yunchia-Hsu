@@ -55,9 +55,17 @@
 
 <h2 align="center">🤳 Contact with me:</h2>
 
-[<img align="center" alt="Yun-Chia Hsu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
- &nbsp;
-[<img align="center" alt="Yun-Chia Hsu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/yun-chia-hsu-b95406138">
+        <img alt="Yun-Chia Hsu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    &nbsp;
+    <a href="mailto:yh24hsu@gmail.com">
+        <img alt="Yun-Chia Hsu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    </a>
+</div>
+
 
 [linkedin]: https://www.linkedin.com/in/yun-chia-hsu-b95406138
 [gmail]: mailto:yh24hsu@gmail.com
