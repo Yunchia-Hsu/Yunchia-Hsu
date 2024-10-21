@@ -1,7 +1,7 @@
 
 <div align="center">
     <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">
-        <img src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk0Mjg4NDYsIm5iZiI6MTcyOTQyODU0NiwicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIwVDEyNDkwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkZTYwMDQxZjQyNTVmNjA4YTI1YjVjNGIzODFjYTcwNDRlNzU1NjM5ZWIwNzczMTYzZmZmM2IxMjA3YWJlODcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ALFB4b3lMSJTtBAY6LGkpnmmR9Ssg4b_NOyJV_wfeBs" alt="Coder gif" width="600" height="350">
+        <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" alt="Cute girl gif" width="700" height="450">
     </a>
 </div>
 
