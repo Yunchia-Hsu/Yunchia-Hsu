@@ -1,7 +1,7 @@
 
 <div align="center">
     <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">
-        <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" alt="Cute girl gif" width="700" height="450">
+        <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" alt="Cute girl gif" width="600" height="400">
     </a>
 </div>
 
