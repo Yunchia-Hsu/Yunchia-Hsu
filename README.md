@@ -44,10 +44,15 @@
 
 - <b>Language **C** </b>
 
-  - [2D game: so_long](https://github.com/Yunchia-Hsu/so_long)
-  - [Simple bash-like shell: minishell](https://github.com/Yunchia-Hsu/minishell)
-  - [Algorithm: push_swap](https://github.com/Yunchia-Hsu/Hive-Helsinki-)
-  - [My own C library: Libft](https://github.com/Yunchia-Hsu/Hive-Helsinki-)
+  - [My C library: Libft](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
+  - [Awesome 3D game: cub3d](https://github.com/Yunchia-Hsu/Cub3D)
+  - [Cute 2D game: so_long](https://github.com/Yunchia-Hsu/so_long)
+  - [My own bash-like shell: minishell](https://github.com/Yunchia-Hsu/minishell)
+  - [Algorithm: push_swap](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
+  - [Recreation of printf: printf](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
+  - [Read line by line: get_next_line](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
+  - [Simulation the behavior of pipe commands: pipex](https://github.com/Yunchia-Hsu/pipex)
+  
 
 - <b>Language **C++** </b>
 
