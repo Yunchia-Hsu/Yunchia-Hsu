@@ -52,7 +52,7 @@
   - [Recreation of printf: printf](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
   - [Read line by line: get_next_line](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
   - [Simulation the behavior of pipe commands: pipex](https://github.com/Yunchia-Hsu/pipex)
-  
+  - [Multithreaded concurrency solution: philosophers](https://github.com/Yunchia-Hsu/Philosophers)
 
 - <b>Language **C++** </b>
 
