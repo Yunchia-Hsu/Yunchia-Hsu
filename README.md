@@ -33,21 +33,15 @@
 ![MacOS](https://img.shields.io/badge/macOS-000000.svg?style=for-the-badge&logo=macOS&logoColor=white)
 </div>
 
-<h2 align="center">📊 My GitHub stats </h2>
-
-<div align="center">
-   
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yunchia-Hsu&" alt="Yunchia-Hsu" /></p>
-</div>
-
 <h2 align="center">👨‍💻 Projects:</h2>
 
 - <b>Language **C** </b>
 
-  - [My C library: Libft](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
+ 
   - [Awesome 3D game: cub3d](https://github.com/Yunchia-Hsu/Cub3D)
   - [Cute 2D game: so_long](https://github.com/Yunchia-Hsu/so_long)
   - [My own bash-like shell: minishell](https://github.com/Yunchia-Hsu/minishell)
+  - [My C library: Libft](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
   - [Algorithm: push_swap](https://github.com/Yunchia-Hsu/push_swap)
   - [Recreation of printf: printf](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
   - [Read line by line: get_next_line](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
@@ -57,6 +51,15 @@
 - <b>Language **C++** </b>
 
   - [Basics of C++: Cpp modules](https://github.com/Yunchia-Hsu/CPP_modules)
+
+<h2 align="center">📊 My GitHub stats </h2>
+
+<div align="center">
+   
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yunchia-Hsu&" alt="Yunchia-Hsu" /></p>
+</div>
+
+
 
 <h2 align="center">🤳 Contact with me:</h2>
 
