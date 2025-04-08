@@ -53,7 +53,7 @@
 
 - <b>Language **C++** </b>
 
-  - [Web server: websev](https://github.com/Yunchia-Hsu/webserv)
+  - [Web server: webserv](https://github.com/Yunchia-Hsu/webserv)
   - [Basics of C++: Cpp modules](https://github.com/Yunchia-Hsu/CPP_modules)
 
 <h2 align="center">📊 My GitHub stats </h2>
