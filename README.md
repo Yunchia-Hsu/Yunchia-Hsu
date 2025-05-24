@@ -37,10 +37,10 @@
 
 - <b>Language **Python / HTML** </b>
 
-  - [Full-stack ＋ Gen AI: Person AI tutor](https://github.com/Yunchia-Hsu/Personal-AI-tutor)
+  - [Full-stack ＋ Gen AI: Personal AI tutor](https://github.com/Yunchia-Hsu/Personal-AI-tutor)
 
 - <b>Language **C** </b>
-
+  - [Supercell AI Hackathon 2025 winning project: PromptMeMaybe!](https://github.com/Yunchia-Hsu/PromptMeMaybe)
   - [Awesome 3D game: cub3d](https://github.com/Yunchia-Hsu/Cub3D)
   - [Cute 2D game: so_long](https://github.com/Yunchia-Hsu/so_long)
   - [My own bash-like shell: minishell](https://github.com/Yunchia-Hsu/minishell)
