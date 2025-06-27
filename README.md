@@ -35,9 +35,10 @@
 
 <h2 align="center">👨‍💻 Projects:</h2>
 
-- <b>Language **Python / HTML** </b>
+- <b>**AI / Full-Stack**</b>
 
   - [Full-stack ＋ Gen AI: Personal AI tutor](https://github.com/Yunchia-Hsu/Personal-AI-tutor)
+  - [Picture Prompt Storytelling](https://github.com/Yunchia-Hsu/Picture_Prompt_Storytelling)
 
 - <b>Language **C** </b>
   - [Supercell AI Hackathon 2025 winning project: PromptMeMaybe!](https://github.com/Yunchia-Hsu/PromptMeMaybe)
@@ -46,15 +47,12 @@
   - [My own bash-like shell: minishell](https://github.com/Yunchia-Hsu/minishell)
   - [My C library: Libft](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
   - [Algorithm: push_swap](https://github.com/Yunchia-Hsu/push_swap)
-  - [Recreation of printf: printf](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
-  - [Read line by line: get_next_line](https://github.com/Yunchia-Hsu/libft-printf-getnextline-pushswap)
-  - [Simulation the behavior of pipe commands: pipex](https://github.com/Yunchia-Hsu/pipex)
   - [Multithreaded concurrency solution: philosophers](https://github.com/Yunchia-Hsu/Philosophers)
 
 - <b>Language **C++** </b>
 
   - [Web server: webserv](https://github.com/Yunchia-Hsu/webserv)
-  - [Basics of C++: Cpp modules](https://github.com/Yunchia-Hsu/CPP_modules)
+  
 
 <h2 align="center">📊 My GitHub stats </h2>
 
