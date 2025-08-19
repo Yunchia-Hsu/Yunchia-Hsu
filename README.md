@@ -38,6 +38,7 @@
 - <b>**AI / Full-Stack**</b>
 
   - [Full-stack ＋ Gen AI: Personal AI tutor](https://github.com/Yunchia-Hsu/Personal-AI-tutor)
+  - [Full-stack ＋ AI: The Best Pong Game](https://github.com/Yunchia-Hsu/ft_transcendence)
   - [Picture Prompt Storytelling](https://github.com/Yunchia-Hsu/Picture_Prompt_Storytelling)
 
 - <b>Language **C** </b>
